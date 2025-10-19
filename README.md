@@ -36,7 +36,7 @@ A colorful, terminal-based probability simulator written in Python. Flip coins, 
 ### Option 2: Run from Source
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/die-roller.git
+git clone https://github.com/XucyXi/die-roller.git
 cd die-roller
 
 # Run the Python script
