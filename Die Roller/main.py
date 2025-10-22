@@ -124,7 +124,6 @@ def end_program():
     exit()
 
 def main():
-
     while True:
         if auth.check_mode() == 0: # default mode
             choice = ui.default_menu()
