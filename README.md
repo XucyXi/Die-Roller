@@ -25,7 +25,7 @@ A colorful, terminal-based probability simulator written in Python. Flip coins, 
 - **🕹️ Interactive**: Easy-to-use menu system
 - **🏛️ Operator mode:** Advanced features like probability manipulation 
 - **🐣 Easter Eggs**: Hidden features and multiple banner designs
-- **🖥️ Cross-Platform**: Works on Windows, ~Linux, and macOS~ soon
+- **🖥️ Cross-Platform**: Works on Windows, Linux, and macOS
 
 ## 🚀 Installation
 
