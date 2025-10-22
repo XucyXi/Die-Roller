@@ -23,8 +23,9 @@ A colorful, terminal-based probability simulator written in Python. Flip coins, 
 - **⚄ Die Roll**: Roll dice with any number of sides (D4, D6, D20, D100, etc.)
 - **🎨 Colorful Interface**: Vibrant ANSI-colored terminal display
 - **🕹️ Interactive**: Easy-to-use menu system
+- **🏛️ Operator mode:** Advanced features like probability manipulation 
 - **🐣 Easter Eggs**: Hidden features and multiple banner designs
-- **🖥️ Cross-Platform**: Works on Windows, Linux, and macOS
+- **🖥️ Cross-Platform**: Works on Windows, ~Linux, and macOS~ soon
 
 ## 🚀 Installation
 
